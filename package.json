@@ -1,0 +1,16 @@
+{
+  "name": "primeraentrega",
+  "version": "1.0.0",
+  "description": "Primera entrega del curso node js (modificado con express)",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "yargs": "^13.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edwin Borda edwin.borda@outlook.com",
+  "license": "ISC"
+}
